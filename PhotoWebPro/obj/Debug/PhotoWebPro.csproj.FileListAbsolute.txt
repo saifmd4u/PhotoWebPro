@@ -1,0 +1,13 @@
+D:\Challenge\PhotoWebPro\PhotoWebPro\bin\PhotoWebPro.dll
+D:\Challenge\PhotoWebPro\PhotoWebPro\bin\PhotoWebPro.pdb
+D:\Challenge\PhotoWebPro\PhotoWebPro\bin\EntityFramework.dll
+D:\Challenge\PhotoWebPro\PhotoWebPro\bin\Microsoft.Web.Infrastructure.dll
+D:\Challenge\PhotoWebPro\PhotoWebPro\bin\Newtonsoft.Json.dll
+D:\Challenge\PhotoWebPro\PhotoWebPro\bin\SignalR.dll
+D:\Challenge\PhotoWebPro\PhotoWebPro\bin\SignalR.Hosting.AspNet.dll
+D:\Challenge\PhotoWebPro\PhotoWebPro\bin\EntityFramework.xml
+D:\Challenge\PhotoWebPro\PhotoWebPro\bin\Newtonsoft.Json.pdb
+D:\Challenge\PhotoWebPro\PhotoWebPro\bin\Newtonsoft.Json.xml
+D:\Challenge\PhotoWebPro\PhotoWebPro\obj\Debug\PhotoWebPro.csprojResolveAssemblyReference.cache
+D:\Challenge\PhotoWebPro\PhotoWebPro\obj\Debug\PhotoWebPro.dll
+D:\Challenge\PhotoWebPro\PhotoWebPro\obj\Debug\PhotoWebPro.pdb
